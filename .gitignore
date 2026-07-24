@@ -1,0 +1,15 @@
+# 密钥文件
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
+.DS_Store
